@@ -84,11 +84,11 @@ http://6395online.com:8080/live/Iptv6988/0905692638/151.m3u8
 http://6395online.com:8080/live/Iptv6988/0905692638/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chiangrai" tvg-logo="https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-1/306948158_462444512593517_4183614011748535952_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x1152&ctp=s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeFTaRTL2c18dgxnB5P3Qw8xdlRj-3HLYcR2VGP7ccthxLFQfYUIeuVhaL26nGZ2LaF0j0UMqQsNvSPP7BaGqCyx&_nc_ohc=DM73zfuV3T0Q7kNvwEuqviD&_nc_oc=AdqNa38myG5Gj68dXX4O8GbKz1lGSHbQmuvmjLwT2fVXbmU6SfZ7qTbhWZOnLjXyiVQ&_nc_zt=24&_nc_ht=scontent.fbkk29-4.fna&_nc_gid=QZqgv4BjitK3sDwhVPgflQ&_nc_ss=7b2a8&oh=00_AQDIc_oWpfG753-aHgN_dT_eeXzAFXhorwlhGiqhqDf6xA&oe=6A4C4A8B" group-title="ดูหนังกัน",Chiangrai
 http://6395online.com:8080/live/Iptv6988/0905692638/158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky11.png" group-title="ภาพยนต์",Livesky 1
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky11.png" group-title="ดูหนังกัน",Livesky 1
 http://6395online.com:8080/live/Iptv6988/0905692638/443073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky22.png" group-title="ภาพยนต์",Livesky 2
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky22.png" group-title="ดูหนังกัน",Livesky 2
 http://6395online.com:8080/live/Iptv6988/0905692638/443074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://6395online.com:8443/logotv/movie/ipm_series_plus_hd.png" group-title="ภาพยนต์",SERIES
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://6395online.com:8443/logotv/movie/ipm_series_plus_hd.png" group-title="ดูหนังกัน",SERIES
 http://6395online.com:8080/live/Iptv6988/0905692638/443075.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network.th" tvg-name="Cartoonnetwork" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonnetwork.png" group-title="การ์ตูน",Cartoonnetwork
