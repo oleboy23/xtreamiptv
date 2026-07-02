@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3HD" tvg-name="3 HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718132008006594.png" group-title="ดิจิตอล",3 HD
+http://6395online.com:8080/live/Iptv6988/0905692638/17808.m3u8
+#EXTINF:-1 tvg-id="channel4" tvg-name="5 HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132701006689.png" group-title="ดิจิตอล",5 HD
+http://6395online.com:8080/live/Iptv6988/0905692638/17822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7 HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716133132006704.png" group-title="ดิจิตอล",7 HD
+http://6395online.com:8080/live/Iptv6988/0905692638/17823.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="NBT" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132546006600.png" group-title="ดิจิตอล",NBT 
+http://6395online.com:8080/live/Iptv6988/0905692638/17824.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Thai PBS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132617006744.png" group-title="ดิจิตอล",Thai PBS 
+http://6395online.com:8080/live/Iptv6988/0905692638/17825.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="MCOT" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132926006776.png" group-title="ดิจิตอล",MCOT 
+http://6395online.com:8080/live/Iptv6988/0905692638/17826.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="TPTV" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135946006791.png" group-title="ดิจิตอล",TPTV 
+http://6395online.com:8080/live/Iptv6988/0905692638/17828.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="TNN 16" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135508006746.png" group-title="ดิจิตอล",TNN 16 
+http://6395online.com:8080/live/Iptv6988/0905692638/17829.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Nation" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716101724006718.png" group-title="ดิจิตอล",Nation 
+http://6395online.com:8080/live/Iptv6988/0905692638/17830.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Workpoint" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716140248006624.png" group-title="ดิจิตอล",Workpoint 
+http://6395online.com:8080/live/Iptv6988/0905692638/17831.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="True4U" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716140038006620.png" group-title="ดิจิตอล",True4U 
+http://6395online.com:8080/live/Iptv6988/0905692638/17832.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="GMM25" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250611173714006777.png" group-title="ดิจิตอล",GMM25 
+http://6395online.com:8080/live/Iptv6988/0905692638/17833.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="CH 8" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260227093922042823.png" group-title="ดิจิตอล",CH 8 
+http://6395online.com:8080/live/Iptv6988/0905692638/17834.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="MONOMAX SPORTS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260602150518056173.png" group-title="ดิจิตอล",MONOMAX SPORTS
+http://6395online.com:8080/live/Iptv6988/0905692638/17835.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="ONE31" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250718131942006775.png" group-title="ดิจิตอล",ONE31
+http://6395online.com:8080/live/Iptv6988/0905692638/17836.m3u8
+#EXTINF:-1 tvg-id="iptv36.ch3" tvg-name="Thairath TV" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135449006774.png" group-title="ดิจิตอล",Thairath TV
+http://6395online.com:8080/live/Iptv6988/0905692638/17837.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Amarin HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716133045006544.png" group-title="ดิจิตอล",Amarin HD
+http://6395online.com:8080/live/Iptv6988/0905692638/17838.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="PPTV HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20251224100714006705.png" group-title="ดิจิตอล",PPTV HD
+http://6395online.com:8080/live/Iptv6988/0905692638/17839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="https://pbs.twimg.com/profile_images/1981966912935403520/i0sABdva_400x400.jpg" group-title="ดิจิตอล",NEWS 1 
+http://6395online.com:8080/live/Iptv6988/0905692638/17840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOPNEWS" tvg-logo="https://c7.alamy.com/comp/HYCGWP/top-news-icon-top-news-website-button-on-white-background-HYCGWP.jpg" group-title="ดิจิตอล",TOPNEWS 
+http://6395online.com:8080/live/Iptv6988/0905692638/17841.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian More" tvg-logo="https://www.true.th/postpaid-package/5g-super-asian-entertainment/assets/images/channel/movie/true-asianmore.png" group-title="ดูหนังกัน",Asian More
+http://6395online.com:8080/live/Iptv6988/0905692638/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="ดูหนังกัน",AXN
+http://6395online.com:8080/live/Iptv6988/0905692638/129.m3u8
+#EXTINF:-1 tvg-id="channel28" tvg-name="Warner" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135125006722.png" group-title="ดูหนังกัน",Warner
+http://6395online.com:8080/live/Iptv6988/0905692638/130.m3u8
+#EXTINF:-1 tvg-id="channel22" tvg-name="HBO HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png" group-title="ดูหนังกัน",HBO HD
+http://6395online.com:8080/live/Iptv6988/0905692638/133.m3u8
+#EXTINF:-1 tvg-id="channel24" tvg-name="HBO HITS HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png" group-title="ดูหนังกัน",HBO HITS HD
+http://6395online.com:8080/live/Iptv6988/0905692638/134.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134720006707.png" group-title="ดูหนังกัน",HBO Signature
+http://6395online.com:8080/live/Iptv6988/0905692638/135.m3u8
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134747006583.png" group-title="ดูหนังกัน",HBO Family HD
+http://6395online.com:8080/live/Iptv6988/0905692638/136.m3u8
+#EXTINF:-1 tvg-id="channel26" tvg-name="CineMax" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134649006712.png" group-title="ดูหนังกัน",CineMax
+http://6395online.com:8080/live/Iptv6988/0905692638/138.m3u8
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.th" tvg-name="ROCK ENTERTAINMEN" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135113006742.png" group-title="ดูหนังกัน",ROCK ENTERTAINMENT 
+http://6395online.com:8080/live/Iptv6988/0905692638/139.m3u8
+#EXTINF:-1 tvg-id="ROCK Action.th" tvg-name="ROCK ACTION" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135107006734.png" group-title="ดูหนังกัน",ROCK ACTION
+http://6395online.com:8080/live/Iptv6988/0905692638/140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUE Thai Film " tvg-logo="https://www.true.th/postpaid-package/5g-super-asian-entertainment/assets/images/channel/movie/true-thaifilm.png" group-title="ดูหนังกัน",TRUE Thai Film 
+http://6395online.com:8080/live/Iptv6988/0905692638/141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Film HD" tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm.png" group-title="ดูหนังกัน",True Film HD
+http://6395online.com:8080/live/Iptv6988/0905692638/142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Film HD2" tvg-logo="https://6395online.com:8443/logotv/movie/hd-tfilm2.png" group-title="ดูหนังกัน",True Film HD2
+http://6395online.com:8080/live/Iptv6988/0905692638/143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mono29+" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135043006586.png" group-title="ดูหนังกัน",Mono29+
+http://6395online.com:8080/live/Iptv6988/0905692638/145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Series" tvg-logo="https://6395online.com:8443/logotv/movie/sd-series.png" group-title="ดูหนังกัน",True Series
+http://6395online.com:8080/live/Iptv6988/0905692638/146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Film Asia" tvg-logo="https://www.true.th/postpaid-package/5g-super-asian-entertainment/assets/images/channel/movie/true-filmasia.png" group-title="ดูหนังกัน",True Film Asia
+http://6395online.com:8080/live/Iptv6988/0905692638/147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Movie Hits" tvg-logo="https://6395online.com:8443/logotv/movie/moviehits.png" group-title="ดูหนังกัน",True Movie Hits
+http://6395online.com:8080/live/Iptv6988/0905692638/148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3BB Asian" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134635006505.png" group-title="ดูหนังกัน",3BB Asian
+http://6395online.com:8080/live/Iptv6988/0905692638/16857.m3u8
+#EXTINF:-1 tvg-id="TVBS News.th" tvg-name="TVB CLASSIC HD" tvg-logo="https://6395online.com:8443/logotv/movie/1719898154.png" group-title="ดูหนังกัน",TVB CLASSIC HD
+http://6395online.com:8080/live/Iptv6988/0905692638/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://6395online.com:8443/logotv/movie/ccm.png" group-title="ดูหนังกัน",CCM
+http://6395online.com:8080/live/Iptv6988/0905692638/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://6395online.com:8443/logotv/movie/ch8.png" group-title="ดูหนังกัน",Channel 8 
+http://6395online.com:8080/live/Iptv6988/0905692638/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chiangrai" tvg-logo="https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-1/306948158_462444512593517_4183614011748535952_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x1152&ctp=s200x200&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeFTaRTL2c18dgxnB5P3Qw8xdlRj-3HLYcR2VGP7ccthxLFQfYUIeuVhaL26nGZ2LaF0j0UMqQsNvSPP7BaGqCyx&_nc_ohc=DM73zfuV3T0Q7kNvwEuqviD&_nc_oc=AdqNa38myG5Gj68dXX4O8GbKz1lGSHbQmuvmjLwT2fVXbmU6SfZ7qTbhWZOnLjXyiVQ&_nc_zt=24&_nc_ht=scontent.fbkk29-4.fna&_nc_gid=QZqgv4BjitK3sDwhVPgflQ&_nc_ss=7b2a8&oh=00_AQDIc_oWpfG753-aHgN_dT_eeXzAFXhorwlhGiqhqDf6xA&oe=6A4C4A8B" group-title="ดูหนังกัน",Chiangrai
+http://6395online.com:8080/live/Iptv6988/0905692638/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 1" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky11.png" group-title="ภาพยนต์",Livesky 1
+http://6395online.com:8080/live/Iptv6988/0905692638/443073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Livesky 2" tvg-logo="https://6395online.com:8443/logotv/movie/Livesky22.png" group-title="ภาพยนต์",Livesky 2
+http://6395online.com:8080/live/Iptv6988/0905692638/443074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://6395online.com:8443/logotv/movie/ipm_series_plus_hd.png" group-title="ภาพยนต์",SERIES
+http://6395online.com:8080/live/Iptv6988/0905692638/443075.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network.th" tvg-name="Cartoonnetwork" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonnetwork.png" group-title="การ์ตูน",Cartoonnetwork
+http://6395online.com:8080/live/Iptv6988/0905692638/172.m3u8
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boom" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-boomerang.png" group-title="การ์ตูน",Boom
+http://6395online.com:8080/live/Iptv6988/0905692638/173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickJr" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-nickjr.png" group-title="การ์ตูน",NickJr
+http://6395online.com:8080/live/Iptv6988/0905692638/174.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="nickelodeon" tvg-logo="https://6395online.com:8443/logotv/cartoon/nickelodeon.png" group-title="การ์ตูน",nickelodeon
+http://6395online.com:8080/live/Iptv6988/0905692638/175.m3u8
+#EXTINF:-1 tvg-id="Cartoon Club.th" tvg-name="Cartoon Club" tvg-logo="https://6395online.com:8443/logotv/cartoon/sd-cartoonclub.png" group-title="การ์ตูน",Cartoon Club
+http://6395online.com:8080/live/Iptv6988/0905692638/215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="cartoonito" tvg-logo="https://6395online.com:8443/logotv/cartoon/cartoonito.png" group-title="การ์ตูน",cartoonito
+http://6395online.com:8080/live/Iptv6988/0905692638/182080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS-Kids" tvg-logo="https://6395online.com:8443/logotv/cartoon/npr.brightspotcdn.webp" group-title="การ์ตูน",PBS-Kids
+http://6395online.com:8080/live/Iptv6988/0905692638/182085.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Asia.th" tvg-name="Discovery Asia " tvg-logo="https://6395online.com:8443/logotv/discovery/hd-discovery.png" group-title="สารคดี",Discovery Asia 
+http://6395online.com:8080/live/Iptv6988/0905692638/274.m3u8
+#EXTINF:-1 tvg-id="Discovery.th" tvg-name="Discovery SD" tvg-logo="https://6395online.com:8443/logotv/discovery/sd-discovery.png" group-title="สารคดี",Discovery SD
+http://6395online.com:8080/live/Iptv6988/0905692638/275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY TH" tvg-logo="https://6395online.com:8443/logotv/discovery/hd-history.png" group-title="สารคดี",HISTORY TH
+http://6395online.com:8080/live/Iptv6988/0905692638/277.m3u8
+#EXTINF:-1 tvg-id="Animal Planet.th" tvg-name="Animal Show" tvg-logo="https://6395online.com:8443/logotv/discovery/Animalshow.png" group-title="สารคดี",Animal Show
+http://6395online.com:8080/live/Iptv6988/0905692638/280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SCI" tvg-logo="https://6395online.com:8443/logotv/discovery/sd-expsci.png" group-title="สารคดี",TRUE SCI
+http://6395online.com:8080/live/Iptv6988/0905692638/283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foodiez Channel" tvg-logo="https://dookeela4.live/uploads/1772460739.png" group-title="สารคดี",Foodiez Channel
+http://6395online.com:8080/live/Iptv6988/0905692638/284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRUE WILD" tvg-logo="https://6395online.com:8443/logotv/discovery/sd-expwild.png" group-title="สารคดี",TRUE WILD
+http://6395online.com:8080/live/Iptv6988/0905692638/285.m3u8
+#EXTINF:-1 tvg-id="Food Network.th" tvg-name="Food-Channel TH" tvg-logo="https://6395online.com:8443/logotv/discovery/hd-food.png" group-title="สารคดี",Food-Channel TH
+http://6395online.com:8080/live/Iptv6988/0905692638/287.m3u8
+#EXTINF:-1 tvg-id="Asian Food Network.th" tvg-name="Asian-Food" tvg-logo="https://6395online.com:8443/logotv/discovery/sd-asianfood.png" group-title="สารคดี",Asian-Food
+http://6395online.com:8080/live/Iptv6988/0905692638/288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="สำรวจโลก" tvg-logo="https://6395online.com:8443/logotv/discovery/rs996download.png" group-title="สารคดี",สำรวจโลก
+http://6395online.com:8080/live/Iptv6988/0905692638/295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mysci" tvg-logo="https://6395online.com:8443/logotv/discovery/mysci.png" group-title="สารคดี",Mysci
+http://6395online.com:8080/live/Iptv6988/0905692638/12194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://6395online.com:8443/logotv/discovery/tlc.png" group-title="สารคดี",TLC
+http://6395online.com:8080/live/Iptv6988/0905692638/139814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://6395online.com:8443/logotv/discovery/sd-bbclifestyle.png" group-title="สารคดี",BBC Lifestyle
+http://6395online.com:8080/live/Iptv6988/0905692638/140161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ของดี ประเทศไทย" tvg-logo="https://6395online.com:8443/logotv/discovery/KhongDee.png" group-title="สารคดี",ของดี ประเทศไทย
+http://6395online.com:8080/live/Iptv6988/0905692638/140164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thainess" tvg-logo="https://6395online.com:8443/logotv/discovery/ThaiNess.png" group-title="สารคดี",Thainess
+http://6395online.com:8080/live/Iptv6988/0905692638/228542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://6395online.com:8443/logotv/discovery/hd-natgeo.png" group-title="สารคดี",National Geographic
+http://6395online.com:8080/live/Iptv6988/0905692638/288575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Outdoor_Channel_logo_2007-2017.svg/1200px-Outdoor_Channel_logo_2007-2017.svg.png" group-title="สารคดี",Outdoor
+http://6395online.com:8080/live/Iptv6988/0905692638/288576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History2" tvg-logo="https://6395online.com:8443/logotv/discovery/hd-history2.png" group-title="สารคดี",History2
+http://6395online.com:8080/live/Iptv6988/0905692638/369920.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="Bein 1 TH" tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="กีฬา",Bein 1 TH
+http://6395online.com:8080/live/Iptv6988/0905692638/202.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Bein 1 TH" tvg-logo="https://6395online.com:8443/logotv/sport/bein1.png" group-title="กีฬา",Bein 1 TH
+http://6395online.com:8080/live/Iptv6988/0905692638/203.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Bein 2 TH" tvg-logo="https://6395online.com:8443/logotv/sport/bein2.png" group-title="กีฬา",Bein 2 TH
+http://6395online.com:8080/live/Iptv6988/0905692638/204.m3u8
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="Bein 3 TH" tvg-logo="https://6395online.com:8443/logotv/sport/bein3.png" group-title="กีฬา",Bein 3 TH
+http://6395online.com:8080/live/Iptv6988/0905692638/205.m3u8
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="TrueSport HD1" tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport1.png" group-title="กีฬา",TrueSport HD1
+http://6395online.com:8080/live/Iptv6988/0905692638/206.m3u8
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="TrueSport HD2" tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport2.png" group-title="กีฬา",TrueSport HD2
+http://6395online.com:8080/live/Iptv6988/0905692638/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TrueSport HD3" tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport3.png" group-title="กีฬา",TrueSport HD3
+http://6395online.com:8080/live/Iptv6988/0905692638/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TrueSport HD4" tvg-logo="https://6395online.com:8443/logotv/sport/hd-tsport4.png" group-title="กีฬา",TrueSport HD4
+http://6395online.com:8080/live/Iptv6988/0905692638/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TrueSport 5" tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport5.png" group-title="กีฬา",TrueSport 5
+http://6395online.com:8080/live/Iptv6988/0905692638/210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TrueSport 7" tvg-logo="https://6395online.com:8443/logotv/sport/sd-tsport7.png" group-title="กีฬา",TrueSport 7
+http://6395online.com:8080/live/Iptv6988/0905692638/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True tennis" tvg-logo="https://6395online.com:8443/logotv/sport/hd-tennis.png" group-title="กีฬา",True tennis
+http://6395online.com:8080/live/Iptv6988/0905692638/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf 2 HD" tvg-logo="https://6395online.com:8443/logotv/sport/golf2.jpg" group-title="กีฬา",Golf 2 HD
+http://6395online.com:8080/live/Iptv6988/0905692638/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv.png" group-title="กีฬา",SPOTV 1
+http://6395online.com:8080/live/Iptv6988/0905692638/219.m3u8
+#EXTINF:-1 tvg-id="3 HD.th" tvg-name="SPOTV 2" tvg-logo="https://6395online.com:8443/logotv/sport/hd-spotv2.png" group-title="กีฬา",SPOTV 2
+http://6395online.com:8080/live/Iptv6988/0905692638/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T SPORT" tvg-logo="https://www.idoohd.com/images/tv/qMObUQGl2bobXKoTYJQsVmTGyBigrOAT-SPorts_7_Final.jpg" group-title="กีฬา",T SPORT
+http://6395online.com:8080/live/Iptv6988/0905692638/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports mainevent" tvg-logo="https://6395online.com:8443/logotv/logo/1665106057.png" group-title="กีฬา",Sky Sports mainevent
+http://6395online.com:8080/live/Iptv6988/0905692638/540983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports arena" tvg-logo="http://apk-x.org/pics/images/skyarena.png" group-title="กีฬา",Sky Sports arena
+http://6395online.com:8080/live/Iptv6988/0905692638/540984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports action" tvg-logo="https://6395online.com:8443/logotv/logo/1715648808.png" group-title="กีฬา",Sky Sports action
+http://6395online.com:8080/live/Iptv6988/0905692638/540985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports cricket" tvg-logo="https://6395online.com:8443/logotv/logo/1744742402.png" group-title="กีฬา",Sky Sports cricket
+http://6395online.com:8080/live/Iptv6988/0905692638/540986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports epl" tvg-logo="http://apk-x.org/pics/images/skyepl.png" group-title="กีฬา",Sky Sports epl
+http://6395online.com:8080/live/Iptv6988/0905692638/540987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports golf" tvg-logo="https://6395online.com:8443/logotv/logo/1712888702.png" group-title="กีฬา",Sky Sports golf
+http://6395online.com:8080/live/Iptv6988/0905692638/540988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports f1" tvg-logo="https://6395online.com:8443/logotv/logo/1712888821.png" group-title="กีฬา",Sky Sports f1
+http://6395online.com:8080/live/Iptv6988/0905692638/540989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports mix" tvg-logo="https://6395online.com:8443/logotv/logo/1712889285.png" group-title="กีฬา",Sky Sports mix
+http://6395online.com:8080/live/Iptv6988/0905692638/540990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports football" tvg-logo="https://6395online.com:8443/logotv/logo/1664576894.png" group-title="กีฬา",Sky Sports football
+http://6395online.com:8080/live/Iptv6988/0905692638/540991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="http://apk-x.org/pics/images/tsn1.png" group-title="กีฬา",TSN 1
+http://6395online.com:8080/live/Iptv6988/0905692638/540978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="http://apk-x.org/pics/images/tsn2.png" group-title="กีฬา",TSN 2
+http://6395online.com:8080/live/Iptv6988/0905692638/540979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://apk-x.org/pics/images/tsn3.png" group-title="กีฬา",TSN 3
+http://6395online.com:8080/live/Iptv6988/0905692638/540980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://apk-x.org/pics/images/tsn4.png" group-title="กีฬา",TSN 4
+http://6395online.com:8080/live/Iptv6988/0905692638/540981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5" tvg-logo="http://apk-x.org/pics/images/tsn5.png" group-title="กีฬา",TSN 5
+http://6395online.com:8080/live/Iptv6988/0905692638/540982.m3u8
