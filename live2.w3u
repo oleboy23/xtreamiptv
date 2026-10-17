@@ -1,0 +1,121 @@
+{
+  "name": "บันเทิง",
+  "author": "BadBoyMedia",
+  "info": "Live",
+  "image": "https://media3.giphy.com/media/0E5xG8yTto5uECr4wY/100.webp",
+  "url": "",
+  "stations": [
+    {
+      "name":"HBO",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703686191.png&s=721f082f1ad7",
+      "url":"https://kicksball.com/tv/hbo-274",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"HBO Hits",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786599.png&s=71d5887cf197",
+      "url":"https://kicksball.com/tv/hbo-hits-276",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"HBO Signature",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786305.png&s=02005c29a161",
+      "url":"https://kicksball.com/tv/hbo-signature-275",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"HBO family",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786776.png&s=b5aadc3f5c85",
+      "url":"https://kicksball.com/tv/hbo-family-277",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"cinemax",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703786799.png&s=c2dad8497db4",
+      "url":"https://kicksball.com/tv/cinemax-278",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Asian Hits",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703829940.png&s=402fe16ffd3a",
+      "url":"https://kicksball.com/tv/asian-hits-281",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"MONO29 Plus",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1703787733.png&s=d8d69d5d37ea",
+      "url":"https://kicksball.com/tv/mono29-plus-280",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"ROCK Action",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1718690264.png&s=528c02e1b7c3",
+      "url":"https://kicksball.com/tv/rock-action-402",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"ROCK ENTERTAINMENT",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1718690283.png&s=49a8f1c892ae",
+      "url":"https://kicksball.com/tv/rock-entertainment-403",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Mono 29 Music station",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1742428538.png&s=59def1189bbd",
+      "url":"https://kicksball.com/tv/mono-29-music-station-593",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"True Film 1",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720380229.png&s=e60df788188f",
+      "url":"https://kicksball.com/tv/true-film-1-418",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"True Film 2",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1720723122.png&s=5711fcf77486",
+      "url":"https://kicksball.com/tv/true-film-2-420",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"Alure Channel",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1731057748.png&s=d3bac0c7bd61",
+      "url":"https://kicksball.com/tv/alure-channel-554",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    },
+	{
+      "name":"RUSH Stories",
+      "image":"https://kicksball.com/img/proxy?u=https%3A%2F%2Fliveplayback.net%2Fuploads%2F1741273735.png&s=62e6e0a6a867",
+      "url":"https://kicksball.com/tv/rush-stories-586",
+      "referer":"https://kicksball.com/",
+      "info":"Live",
+      "playInNatPlayer":"true"
+    }
+  ]
+}
