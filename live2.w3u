@@ -11,7 +11,7 @@
       "url":"https://kicksball.com/tv/hbo-274",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"HBO Hits",
@@ -19,7 +19,7 @@
       "url":"https://kicksball.com/tv/hbo-hits-276",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"HBO Signature",
@@ -27,7 +27,7 @@
       "url":"https://kicksball.com/tv/hbo-signature-275",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"HBO family",
@@ -35,7 +35,7 @@
       "url":"https://kicksball.com/tv/hbo-family-277",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"cinemax",
@@ -43,7 +43,7 @@
       "url":"https://kicksball.com/tv/cinemax-278",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"Asian Hits",
@@ -51,7 +51,7 @@
       "url":"https://kicksball.com/tv/asian-hits-281",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"MONO29 Plus",
@@ -59,7 +59,7 @@
       "url":"https://kicksball.com/tv/mono29-plus-280",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"ROCK Action",
@@ -67,7 +67,7 @@
       "url":"https://kicksball.com/tv/rock-action-402",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"ROCK ENTERTAINMENT",
@@ -75,7 +75,7 @@
       "url":"https://kicksball.com/tv/rock-entertainment-403",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"Mono 29 Music station",
@@ -83,7 +83,7 @@
       "url":"https://kicksball.com/tv/mono-29-music-station-593",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"True Film 1",
@@ -91,7 +91,7 @@
       "url":"https://kicksball.com/tv/true-film-1-418",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"True Film 2",
@@ -99,7 +99,7 @@
       "url":"https://kicksball.com/tv/true-film-2-420",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"Alure Channel",
@@ -107,7 +107,7 @@
       "url":"https://kicksball.com/tv/alure-channel-554",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     },
 	{
       "name":"RUSH Stories",
@@ -115,7 +115,7 @@
       "url":"https://kicksball.com/tv/rush-stories-586",
       "referer":"https://kicksball.com/",
       "info":"Live",
-      "playInNatPlayer":"true"
+      "embed":"true"
     }
   ]
 }
