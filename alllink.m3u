@@ -140,6 +140,21 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cinemax-logo-png_seeklogo-302185.png",Cinemax
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/13/1/starz-logo-png_seeklogo-131882.png",Starz
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/16fgsju1pnic1t0n4pa9a/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/32/1/syfy-logo-png_seeklogo-329775.png",SYFY
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/06m7tg91wuqton1f5z85r/master.m3u8
+
 #EXTINF:-1 group-title="Filmmix" tvg-logo="https://image.roku.com/developer_channels/prod/b3a8fc0f8ca4944b558730d98d9eb2a7b8c53abe8459445763c4aac924ad9001.png",Popflix
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -182,8 +197,33 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0yJ4sqj3s2pOdMI-A5IZjYE_cuUN36kZKCvICzO6SDIX7Wz4qbShs3ADSomFu192Ji_zLGCpxG_AX-Zdyau3iPuOy0LEbje1VweLr790tRqkqU49sHhe2kfYE_RR92EyMLi88PYqcBA5AQVA0Avha2-Oa-Z70DGH7732pKVKkyqPM6tZahD6/w640-h360/nicktoons-logo-2023-rebrand_2.png",NICKTOONS
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
-http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/06dd65k13kqj0919p35h0/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.seeklogo.com/logo-png/50/3/nick-jr-logo-png_seeklogo-506452.png",Nick Jr.
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1bex0aj18f1l6i1q5egjg/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.seeklogo.com/logo-png/47/1/nickelodeon-logo-png_seeklogo-479267.png",Nickelodeon
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://www.pngitem.com/pimgs/m/201-2019939_transparent-disney-xd-logo-png-disney-xd-png.png",Disney XD
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0sw6uxy1c6ro7z0wmk5ex/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.seeklogo.com/logo-png/20/1/disney-junior-logo-png_seeklogo-202718.png",Disney Junior
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/12axgb204j4al111stg8p/master.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://images.seeklogo.com/logo-png/25/1/new-disney-channel-logo-png_seeklogo-255285.png",Disney Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0i3hubv0wk47dd1l1o550/master.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://logolook.net/wp-content/uploads/2023/12/Cartoonito-Logo-2018-500x281.png",Cartoonito
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -219,6 +259,46 @@ https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 https://cache0.wonvt.st/live/0rz24u91w9fbp407eceyc/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/28/2/espn-logo-png_seeklogo-283139.png",ESPN
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0xq7oyj0dzt67w1immdya/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/4/2/espn-2-logo-png_seeklogo-49202.png",ESPN2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0fjvbl4193dbmc17croez/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/26/2/espn-deportes-logo-png_seeklogo-261968.png",ESPN Deportes
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0nrho3t18foyt90zv7vs9/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-1.png",TSN1
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0n9pw8q0xegbt00ff92x6/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-2.png",TSN2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1nqruu61oi66bo0fj0go3/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-3.png",TSN3
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/165ku6e0bww1fs0ol7svn/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-4.png",TSN4
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0db5oui05zn8xx16swui5/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://brucetelecom.com/wp-content/uploads/2019/12/TSN-5.png",TSN5
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0in1i4q11fbx250cx88k4/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ewsat.com/img/CANALPLUS_SPORT_2.png",Canal+ Sport
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
