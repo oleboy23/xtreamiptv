@@ -100,35 +100,35 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTVLCOPT:http-referrer=
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://axn.pl/wp-content/uploads/2024/10/AXN_black-hover.png",AXN Black
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://cdn.teleon.tv/logo/24-hour-free-movies-us.png",24 Hour Free Movies
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
-http://85.14.32.26:8800/udp/239.100.10.17:5000
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fd1j2u714xk898n.cloudfront.net%2Fscheduler%2FscheduleMaster%2F145%2Fvariant%2F22099472.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://png.pngitem.com/pimgs/s/585-5856069_fx-fxm-fxx-hd-png-download.png",FX
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://i.imgur.com/wCgirjc.png",New K.Movies
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/00l0xp41smdo1b07fldzv/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://dm5q5evajzvnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-svz5xbnmxjdsz/33bbff49-e8c6-4a16-a3fd-9ed16694430e/0.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://www.nicepng.com/png/full/376-3768018_fxx-logo-fxx-logo-png-white.png",FXX
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://static.wixstatic.com/media/0e69b2_f99e3a0dddd34489b2e42382fa520e73~mv2.png/v1/fill/w_367,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Artflix%20Logo.png",Artflix Movies
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/110fynw1a68kro18sxusr/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://www.pngitem.com/pimgs/m/29-296104_fxm-fxm-channel-logo-hd-png-download.png",FXM
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png",MyTime Movies Network
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/0ci3u9o0q5y25d0b0p7rp/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fmytimeuk-rakuten-samsung.amagi.tv%2F1080p%2Findex.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/AMC-TV-Logo-2013-500x281.png",amc 
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://www.pngitem.com/pimgs/m/707-7074019_movies-png-transparent-png.png",Movies 
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/0o5darq1spb8040ytc566/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/chunklist.m3u8
 
 #EXTINF:-1 group-title="Filmmix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/AMC_logo_1.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20151113151731",amc
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bx-tv.com/
-https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 
 #EXTINF:-1 group-title="Filmmix" tvg-logo="https://img.os-content.com/permanent/a4e7f563-051c-42cb-b566-7255d66fe329/van3kbfQRKcpS0rSWQEX_30atv-logo-april2021-500.png",30A TV Classic Movies
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -140,20 +140,20 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cinemax-logo-png_seeklogo-302185.png",Cinemax
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/48/1/cine-premier-logo-png_seeklogo-481257.png",Cine Premiere
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fjmp2.uk%2Fplu-5cf968040ab7d8f181e6a68b.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/13/1/starz-logo-png_seeklogo-131882.png",Starz
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://i.imgur.com/rtL5L81.png",Flicks Of Fury
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/16fgsju1pnic1t0n4pa9a/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fjmp2.uk%2Fplu-58e55b14ad8e9c364d55f717.m3u8
 
-#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/32/1/syfy-logo-png_seeklogo-329775.png",SYFY
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://i.imgur.com/KoGko6M.png",90's Throwback
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-https://cache0.wonvt.st/live/06m7tg91wuqton1f5z85r/master.m3u8
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f4d86f519358a00072b978e.m3u8
 
 #EXTINF:-1 group-title="Filmmix" tvg-logo="https://image.roku.com/developer_channels/prod/b3a8fc0f8ca4944b558730d98d9eb2a7b8c53abe8459445763c4aac924ad9001.png",Popflix
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
