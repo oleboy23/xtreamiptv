@@ -230,6 +230,11 @@ https://cache0.wonvt.st/live/0i3hubv0wk47dd1l1o550/master.m3u8
 #EXTVLCOPT:http-referrer=
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://cdn.creativefabrica.com/2022/03/22/90s-Kid-Retro-Graphics-27660963-1-1-580x387.png",90's Kids
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fjmp2.uk%2Fplu-6452c814939a590008567a3b.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n7f8ev1600884470.png",beIN SPORTS XTRA
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -339,6 +344,11 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?o
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://images.seeklogo.com/logo-png/24/1/nba-logo-png_seeklogo-247736.png",NBA
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bx-tv.com/
+https://bx-tv.com/proxy.php?url=http%3A%2F%2Frezofoot.tv%2FNBATV%2Findex.m3u8
 
 #EXTINF:-1 group-title="Songs" tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/4ever%20Music.jpg",4ever Music
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
