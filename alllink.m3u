@@ -130,6 +130,46 @@ https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://bx-tv.com/
 https://amc-amcpresents-1-us.xumo.wurl.tv/4300.m3u8
 
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/45/1/hbo-2-hd-nl-logo-png_seeklogo-457042.png",HBO2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0bw1dc40kywxrm1y8ftlz/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/30/1/cinemax-logo-png_seeklogo-302185.png",cinemax
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0m0yysq155l4ml0wmil1i/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/31/1/fxm-logo-png_seeklogo-314832.png",FX Movie Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0ci3u9o0q5y25d0b0p7rp/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://seeklogo.com/images/M/mgm-logo-C4D6AE714E-seeklogo.com.png",MGM+
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/0iwgl9y17cc98n0oq9i2y/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/12/2/showtime-logo-png_seeklogo-126026.png",Showtime
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://cdn.imgbin.com/19/6/24/imgbin-television-show-film-showtime-hbo-showtime-scandinavia-Q93DELivLamZFX1FA4Wm0Uw6j.jpg",Showtime2
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/18onfhu0tcnd770f8j724/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/48/2/syfy-network-logo-png_seeklogo-483787.png",SYFY
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/06m7tg91wuqton1f5z85r/master.m3u8
+
+#EXTINF:-1 group-title="Filmmix" tvg-logo="https://images.seeklogo.com/logo-png/31/1/the-movie-channel-logo-png_seeklogo-314628.png",The Movie Channel
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvnow.st/
+https://cache0.wonvt.st/live/16mresy17avykp0ewewao/master.m3u8
+
 #EXTINF:-1 group-title="Filmmix" tvg-logo="https://img.os-content.com/permanent/a4e7f563-051c-42cb-b566-7255d66fe329/van3kbfQRKcpS0rSWQEX_30atv-logo-april2021-500.png",30A TV Classic Movies
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=
